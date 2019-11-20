@@ -1,4 +1,4 @@
-package chain;
+package chain.calc;
 
 public class BCalculator extends Calculator {
     @Override

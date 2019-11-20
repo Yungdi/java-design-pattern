@@ -1,4 +1,4 @@
-package chain;
+package chain.calc;
 
 public abstract class Calculator {
     private Calculator nextCalculator;
